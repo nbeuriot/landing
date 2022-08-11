@@ -1,0 +1,19 @@
+.cards {
+  margin: 40px;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-around;
+}
+
+.card {
+  box-shadow: 5px 5px 20px rgba(31, 134, 224, 0.259);
+  text-align: center;
+}
+
+.card img {
+  width: 100px;
+  height: 100px;
+  padding: 50px;
+  padding-bottom: 10px;
+}
